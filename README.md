@@ -88,11 +88,7 @@ $ ng serve
     - Block/Unblock user from commenting
     - Change unappropriate user avatars
 
-### Authors
 
-* [Zhelyan Radoev](https://github.com/jeliozver)
-
-### License
 ----
 
 MIT
